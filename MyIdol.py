@@ -30,5 +30,5 @@ Guess_who = Idol(
 
 #Write Guess_who.first/middle/last/fullname/age/school/university/career/ceo/birthday 
 
-print(Guess_who.)
+print(Guess_who.fullname)
     
